@@ -1,0 +1,9 @@
+<project outputDir="D:\Confused" baseDir="D:\" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true">
+    <protection id="anti ildasm" />
+    <protection id="ctrl flow" />
+    <protection id="ref proxy" />
+    <protection id="rename" />
+  </rule>
+  <module path="PROJECTS\IAPValidator.unity\IAPvalidator\bin\Release\MHCSDK.dll" />
+</project>
